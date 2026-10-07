@@ -22,3 +22,6 @@ override.tf.json
 # Terraform CLI configuration
 .terraformrc
 terraform.rc
+
+# Terraform-generated Lambda deployment package
+lambda_function.zip
